@@ -6,10 +6,17 @@ let myProfile = {
     photo: 'images/me.jpg',
     favoriteFoods: ['Afang Soup', 'Ekpang', 'rice', 'Banana Cream Pie'],
     hobbies: ['Scripture Reading', 'Playing keyboard', 'Singing'],
-    placesLived: [''] 
+    placesLived: {
+        place: 'Ikot Ekpene, Akwa Ibom',
+        length: '20 years',
+        place: 'Portharcourt',
+        length: '1 month',
+        place: 'Cross River',
+        length: '2 weeks'
+    }
 };
 
-/* Populate Profile Object with placesLive objects */
+/* Populate Profile Object with placesLive objects 
 let myPlace = {
     place: 'Ikot Ekpene, Akwa Ibom',
     length: '20 years',
@@ -17,8 +24,8 @@ let myPlace = {
     length: '1 month',
     place: 'Cross River',
     length: '2 weeks'
-}
-myProfile.placesLived.push(myPlace);
+}*/
+//myProfile.placesLived.push(myPlace);
 
 
 
@@ -46,5 +53,8 @@ myProfile.hobbies.forEach(hobbie => {
 });
 
 /* Places Lived DataList */
-
-
+myProfile.place.forEach(place => {
+    let dl = document.createElement('dt');
+    dl.textContent = place;
+    document.querySelector('#places-lived') = myProfile.placesLived;
+});
