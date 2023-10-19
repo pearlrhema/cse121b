@@ -11,7 +11,7 @@ body {
 }
 
 nav {
-    background-color: black;
+    background-color: rgb(252, 251, 251);
     width: 100%;
     position: fixed;
     top: 0;
@@ -57,7 +57,7 @@ nav ul li a {
 
 nav ul li a:hover {
     background-color: #efefef;
-    color: black;
+    color: rgb(247, 241, 241);
 }
 
 h1,

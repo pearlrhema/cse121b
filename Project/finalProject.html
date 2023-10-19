@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSE 121b | Final Project</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600&display=swap"
+      rel="stylesheet">
+    <link rel="stylesheet" href="styles/finalproject.css">
+  </head>
+<body>
+  <nav>
+    <ul id="menu">
+      <li><a id="toggleMenu">&equiv;</a></li>
+      <li><a href="index.html">Monday</a></li>
+      <li><a href="w01-task.html">Tuesday</a></li>
+      <li><a href="w03-task.html">wednessday</a></li>
+      <li><a href="w04-task.html">Thursday</a></li>
+      <li><a href="w05-task.html">Friday</a></li>
+      <li><a href="project.html">Saturday</a></li>
+    </ul>
+  </nav>
+  <main id="gridly">
+    <h1>W06: Programming Project</h1>
+    <h2>Select From our Food Menu List</h2>
+
+    <select id="sortBy" title="Choose a data filter.">
+      <option value="" disabled selected>Choose Category</option>
+      <option value="breakfast">Breakfast</option>
+      <option value="launch">Launch</option>
+      <option value="dinner">Dinner</option>
+      <option value="all">All</option>
+    </select>
+
+    <div id="Delicacies">
+    </div>
+  </main>
+
+
+  <footer>
+    &copy;<span id="year"></span> | Week 05 - Fetching Temple Data | CSE 121b
+  </footer>
+  <script src="scripts/main.js"></script>
+  <script>
+    document.getElementById("year").innerHTML = new Date().getFullYear();
+  </script>
+  <script src="scripts\finalProject.js"></script>
+</body>
+</html>
