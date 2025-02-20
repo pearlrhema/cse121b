@@ -3,63 +3,54 @@
         "foodName": "Ekpang Nkukwo",
         "category": "Lunch",
         "imageUrl": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/04/nigerian-ekpang-nkwukwo.jpg",
-        "description": "The Ekpang Nkwukwo recipe, native to the Cross River and Akwa Ibom States of Nigeria, is prepared with grated cocoyam and a variety of vegetables.",
-        "price": 200
+        "description": "The Ekpang Nkwukwo recipe, native to the Cross River and Akwa Ibom States of Nigeria, is prepared with grated cocoyam and a variety of vegetables."
     },
     {
         "foodName": "Afia Efere",
         "category": "Breakfast",
         "imageUrl": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/nsala-soup.jpg",
-        "description": "Do you love catfish then, this soup will give you energy to start your day and to keep it going",
-        "price": 250
+        "description": "Do you love catfish then, this soup will give you energy to start your day and to keep it going"
     },
     {
         "foodName": "Jollof Rice",
         "category": "Dinner",
         "imageUrl": "https://www.lacademie.com/wp-content/uploads/2022/02/jollof-rice-1.jpg",
-        "description": "If you are looking for the best Nigerian rice dish, our Jollof Rice is an ideal choice, give it a try and you'll be amazed",
-        "price": 130
+        "description": "If you are looking for the best Nigerian rice dish, our Jollof Rice is an ideal choice, give it a try and you'll be amazed"
     },
     {
         "foodName": "Afang Soup",
         "category": "Breakfast",
         "imageUrl": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/afang-soup.png",
-        "description": "Another nutritious soup recipe from Efik land, this time with the wild Okazi herbs good enough for boosting of immune system against the odds of the day",
-        "price": 120
+        "description": "Another nutritious soup recipe from Efik land, this time with the wild Okazi herbs good enough for boosting of immune system against the odds of the day"
     },
     {
         "foodName": "Rice meal swallow",
         "category": "Dinner",
         "imageUrl": "https://www.lacademie.com/wp-content/uploads/2022/02/rice-meal.jpg",
-        "description": "The combination of rice and Okra soup is just what you need for a goodnight sleep",
-        "price": 190
+        "description": "The combination of rice and Okra soup is just what you need for a goodnight sleep"
     },
     {
         "foodName": "Akara and Pap",
         "category": "Breakfast",
         "imageUrl": "https://www.withinnigeria.com/piece/wp-content/uploads/sites/9/Pap-and-Akara.jpg",
-        "description": "This is the combination of beans cake and pap made from corn. this combinaton is right just for the start of the day.",
-        "price": 300
+        "description": "This is the combination of beans cake and pap made from corn. this combinaton is right just for the start of the day."
     },
     {
         "foodName": "Goat Meat Pepper Soup",
         "category": "Dinner",
         "imageUrl": "https://www.lacademie.com/wp-content/uploads/2022/02/nwo-nwo.jpg",
-        "description": "With this goat meat pepper soup, you are just one step away from relaxing your nerve",
-        "price": 270
+        "description": "With this goat meat pepper soup, you are just one step away from relaxing your nerve"
     },
     {
         "foodName": "Edikaikong Soup",
         "category": "Lunch",
         "imageUrl": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/edikaikong-soup.jpg",
-        "description": "Loved by many, cooked by a few. Join the exclusive club of people who know the benefit of eating good and nutritious lunch meals",
-        "price": 325
+        "description": "Loved by many, cooked by a few. Join the exclusive club of people who know the benefit of eating good and nutritious lunch meals"
     },
     {
         "foodName": "Abak Atama Soup",
         "category": "Lunch",
         "imageUrl": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/04/abak-atama-soup.jpg",
-        "description": "Abak Atama Soup is a delicious soup popular amongst the Ibibios of Akwa Ibom State in Southern Nigeria.",
-        "price": 560
+        "description": "Abak Atama Soup is a delicious soup popular amongst the Ibibios of Akwa Ibom State in Southern Nigeria."
     }
 ]
